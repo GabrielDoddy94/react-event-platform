@@ -8,6 +8,10 @@
 
 ![cover](.github/cover.png?style=flat)
 
+## 🌎 Deploy
+
+Access the application 👉 <a href='https://react-event-platform-eight.vercel.app/' target='_blank'>Event Platform App</a> 👈
+
 ## 💻 Project
 
 An event platform app where you can attend classes after registering with your name and email on the homepage.
